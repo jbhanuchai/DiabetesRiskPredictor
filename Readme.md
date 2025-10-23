@@ -5,7 +5,7 @@ The model is a **Random Forest** trained on the **Pima Indians Diabetes** datase
 
 ---
 
-## ✨ Features
+## Features
 - **Interactive UI** – sliders/inputs for all clinical fields.  
 - **Configurable decision threshold** – explore precision/recall trade-offs.  
 - **Color-coded Risk Band** – Low (🟢), Moderate (🟡), Elevated (🟠), High (🔴).  
@@ -14,7 +14,7 @@ The model is a **Random Forest** trained on the **Pima Indians Diabetes** datase
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Frontend:** Streamlit  
 - **ML:** scikit-learn (RandomForestClassifier)  
 - **Data:** pandas, numpy  
@@ -23,8 +23,8 @@ The model is a **Random Forest** trained on the **Pima Indians Diabetes** datase
 
 ---
 
-## 📁 Project Structure
-
+## Project Structure
+```
 diabetes-risk-predictor/
 │
 ├── app.py # Streamlit application (main file)
@@ -35,7 +35,7 @@ diabetes-risk-predictor/
 │ └── diabetes.csv # Pima Indians Diabetes dataset
 ├── requirements.txt # Python dependencies
 └── README.md
-
+```
 
 ---
 
