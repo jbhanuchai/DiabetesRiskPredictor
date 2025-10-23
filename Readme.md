@@ -13,7 +13,10 @@ The model is a **Random Forest** trained on the **Pima Indians Diabetes** datase
 - **Plain-English explanation** – quick summary of what the result means.
 
 ---
+## Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetes-risk-analyzer.streamlit.app)
 
+---
 ## Tech Stack
 - **Frontend:** Streamlit  
 - **ML:** scikit-learn (RandomForestClassifier)  
