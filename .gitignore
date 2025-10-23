@@ -1,0 +1,8 @@
+# Ignore virtual environment and macOS files
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore model binaries (optional)
+*.pkl
